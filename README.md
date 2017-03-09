@@ -1,6 +1,6 @@
 #  Recipe: Spring Boot uncoupled factories
 
-This recipe includes 2 different methods to make decoupled factories thanks to spring boot DI:
+This recipe includes 2 different methods to make uncoupled factories thanks to spring boot DI:
 
 1. Handled
 2. Using Spring _ServiceLocatorFactoryBean_
